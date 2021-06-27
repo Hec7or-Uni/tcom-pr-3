@@ -1,6 +1,3 @@
-    /* Nombre: Hector Toral
-       NIA: 798095
-    */
 %{
 #include <stdio.h>
     int acumulado = 0;

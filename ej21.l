@@ -1,6 +1,3 @@
-    /* Nombre: Hector Toral
-       NIA: 798095
-    */
 %{
 #include <math.h>
 #include "y.tab.h"
